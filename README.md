@@ -1,9 +1,9 @@
 
-![image]('screen_readme.png')
+<img src='./screen_readme.png' alt='logo'/>
 
-## Monsters-rolodex-complete
+## Monsters-rolodex
 
-The completed version of our monsters rolodex project!
+The completed version of monsters rolodex project!
 
 ## Task
 *  Work with React app library
@@ -13,6 +13,6 @@ The completed version of our monsters rolodex project!
 
 ## Install dependencies
 
-In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
+In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.<br>
 
-[demo]('http://monster-rodolex.surge.sh/')
+<a href='http://monster-rodolex.surge.sh'>Demo</a>
