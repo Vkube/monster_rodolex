@@ -1,6 +1,10 @@
 
 <img src='./screen_readme.png' alt='logo'/>
 
+<img src='https://img.shields.io/github/issues/Vkube/monster_rodolex'/>
+<img src='https://img.shields.io/github/license/Vkube/monster_rodolex'/>
+<img src='https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdrozdov_svyat'/>
+
 ## Monsters-rolodex
 
 The completed version of monsters rolodex project!
